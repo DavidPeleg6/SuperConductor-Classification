@@ -1,4 +1,4 @@
-%% Data Science - Ex 10 - David Peleg 313237182 & Aviv Arcobi  209008408 
+
 
 %% Loading the data 
 train_data=readcell('train.csv');
